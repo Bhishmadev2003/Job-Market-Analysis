@@ -1,4 +1,4 @@
-# 🔍 AI Job Market Analysis Dashboard
+# 🔍job-market-demand-dashboard
 
 This project dives deep into the AI job market using real-world datasets, with insights uncovered through data analysis and visualized in a Power BI dashboard.
 
